@@ -53,5 +53,5 @@ This project is a simple Node.js application that generates a QR code from a use
 - [Inquirer](https://www.npmjs.com/package/inquirer)
 - [qr-image](https://www.npmjs.com/package/qr-image)
 - [Node.js fs module](https://nodejs.org/api/fs.html)
-- 
+
 ---
